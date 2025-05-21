@@ -2668,6 +2668,19 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.2s ease-out;
 			transition: transform 0.2s ease-out;
 		}
+
+	.headshot-container {
+		text-align: center;
+		margin-bottom: 2rem;
+	}
+
+	.headshot {
+		width: 180px;
+		height: 180px;
+		object-fit: cover;
+		border-radius: 50%;
+		border: 3px solid #ccc;
+	}
 /*
 		a.image:hover img {
 			-moz-transform: scale(1.05);
