@@ -112,6 +112,13 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+	body {
+	  background-color: #08090B !important;
+	}
+	
+	#wrapper {
+	  background-color: #08090B !important;
+	}
 
 /* Type */
 
