@@ -3236,6 +3236,7 @@ input, select, textarea {
 		-webkit-transition: opacity 0.5s ease;
 		-ms-transition: opacity 0.5s ease;
 		transition: opacity 0.5s ease;
+		background-color: #08090B;
 		position: relative;
 		z-index: 1;
 		overflow: hidden;
